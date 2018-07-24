@@ -2,57 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510409a6-1324-45d8-8809-82fca76971fc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.0/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/parts-store.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/parts-store_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/parts-store_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05efc8b1657769a27696d478ded1e95f38737233" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/cardinal/Cashier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/cardinal/Holidays$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/cardinal/Holidays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/cardinal/RentalAgreement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/cardinal/Tool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/cardinal/ToolCatalogDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/cardinal/ToolType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/cardinal/calculators/PerformanceChargeableDaysCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/cardinal/calculators/ReadableChargeableDaysCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/com/cardinal/CashierTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/com/cardinal/HolidaysTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cardinal/Cashier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cardinal/Holidays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cardinal/RentalAgreement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cardinal/Tool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cardinal/ToolCatalogDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cardinal/ToolType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cardinal/calculators/PerformanceChargeableDaysCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cardinal/calculators/ReadableChargeableDaysCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cardinal/CashierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cardinal/HolidaysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/cardinal/Cashier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/cardinal/Holidays$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/cardinal/Holidays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/cardinal/RentalAgreement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/cardinal/Tool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/cardinal/ToolCatalogDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/cardinal/ToolType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/cardinal/calculators/PerformanceChargeableDaysCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/cardinal/calculators/ReadableChargeableDaysCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/cardinal/CashierTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/cardinal/HolidaysTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -103,8 +74,7 @@
       <file leaf-file-name="Cashier.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cardinal/Cashier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="59" column="88" selection-start-line="59" selection-start-column="88" selection-end-line="59" selection-end-column="88" />
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#362#363#0" expanded="true" />
@@ -114,11 +84,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="CashierTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cardinal/CashierTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="180" column="8" selection-start-line="180" selection-start-column="8" selection-end-line="180" selection-end-column="8" />
+            <state relative-caret-position="-802">
+              <caret line="196" column="33" selection-start-line="196" selection-start-column="33" selection-end-line="196" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadableChargeableDaysCalculator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cardinal/calculators/ReadableChargeableDaysCalculator.java">
+      <file leaf-file-name="PerformanceChargeableDaysCalculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cardinal/calculators/PerformanceChargeableDaysCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="26" column="108" selection-start-line="26" selection-start-column="108" selection-end-line="26" selection-end-column="108" />
+            <state relative-caret-position="80">
+              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -331,7 +310,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="$USER_HOME$/.gradle/gradle.properties" value="3598801723" />
-        <entry key="$PROJECT_DIR$" value="7624504733812" />
+        <entry key="$PROJECT_DIR$" value="7624619676963" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="625438030" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="975608090" />
@@ -466,11 +445,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/cardinal/calculators/PerformanceChargeableDaysCalculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cardinal/Holidays.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cardinal/CashierTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cardinal/Cashier.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cardinal/ToolType.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cardinal/RentalAgreement.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cardinal/Tool.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cardinal/calculators/ReadableChargeableDaysCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cardinal/Cashier.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -786,14 +766,11 @@
       <updated>1532282026392</updated>
       <workItem from="1532282028598" duration="803000" />
       <workItem from="1532282881423" duration="236000" />
-      <workItem from="1532283145772" duration="36889000" />
+      <workItem from="1532283145772" duration="38098000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CashierTest_checkoutLadderInSeptemberWithWeekendAndLaborDay - 2018.07.23 at 19h 50m 57s.xml">
-      <configuration name="CashierTest.checkoutLadderInSeptemberWithWeekendAndLaborDay" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CashierTest_checkoutLadderInSeptemberWithWeekendAndLaborDay - 2018.07.23 at 19h 51m 11s.xml">
       <configuration name="CashierTest.checkoutLadderInSeptemberWithWeekendAndLaborDay" configurationId="JUnit" />
     </history-entry>
@@ -821,9 +798,12 @@
     <history-entry file="CashierTest - 2018.07.23 at 20h 04m 19s.xml">
       <configuration name="CashierTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CashierTest - 2018.07.23 at 21h 42m 31s.xml">
+      <configuration name="CashierTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37928000" />
+    <option name="totallyTimeSpent" value="39137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -839,10 +819,11 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286638" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297414" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297414" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2153518" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2153518" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32948583" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Gradle" order="6" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -855,7 +836,6 @@
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32948583" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
@@ -988,16 +968,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cardinal/calculators/PerformanceChargeableDaysCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cardinal/Holidays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -1093,10 +1063,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cardinal/calculators/ReadableChargeableDaysCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="108" selection-start-line="26" selection-start-column="108" selection-end-line="26" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cardinal/calculators/PerformanceChargeableDaysCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cardinal/CashierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-802">
+          <caret line="196" column="33" selection-start-line="196" selection-start-column="33" selection-end-line="196" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cardinal/Cashier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="59" column="88" selection-start-line="59" selection-start-column="88" selection-end-line="59" selection-end-column="88" />
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#362#363#0" expanded="true" />
@@ -1105,23 +1104,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cardinal/CashierTest.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="180" column="8" selection-start-line="180" selection-start-column="8" selection-end-line="180" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cardinal/calculators/ReadableChargeableDaysCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="26" column="108" selection-start-line="26" selection-start-column="108" selection-end-line="26" selection-end-column="108" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
